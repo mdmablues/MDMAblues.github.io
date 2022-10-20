@@ -1,8 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Lift Off! Road to JS and 2Sigma begins
 ---
-
+I have finally created my own website to track my own progrees and no one can stop me now
+ggez scrubs
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
